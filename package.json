@@ -1,0 +1,30 @@
+{
+  "name": "birthday countdown",
+  "version": "0.0.1",
+  "description": "tillmybirthday",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-scripts": "0.9.5",
+    "moment": "^2.29.1",
+    "countdown": "^2.6.0"
+  },
+  "engines": {
+    "node": "6.9.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/SMEDjs/tillmybirthday"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "birthday",
+    "react"
+  ]
+}
