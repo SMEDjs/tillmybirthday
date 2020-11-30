@@ -24,7 +24,7 @@ class App extends Component {
     return (
      
         <p className="App-intro">
-          in {countdown( new Date(1606694400000) ).toString()}
+          in {countdown( new Date(1638230401000) ).toString()}
         </p>
   
     );
